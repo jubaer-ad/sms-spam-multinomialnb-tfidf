@@ -1,2 +1,2 @@
 # sms-spam-multinomialnb-tfidf
-#collected
+#internet
